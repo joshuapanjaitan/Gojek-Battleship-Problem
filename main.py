@@ -31,7 +31,7 @@ sizeShip = int(input())  # size of ships
 sKoorP1 = str(input())  # coordinat ship that will be placed
 sKoorP2 = str(input())
 
-siziMissils = int(input())  # size of missils
+siziMissils = int(input())  # size of missiles
 eKoor1 = str(input())  # coordinat that player x will be placed their missils
 eKoor2 = str(input())
 
